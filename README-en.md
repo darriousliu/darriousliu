@@ -21,7 +21,7 @@ I build cross-platform apps and reusable components with **Kotlin Multiplatform 
 
 From full client apps to math rendering, text parsing, and local storage libraries, I aim to make these capabilities reusable across platforms.
 
-### 🧰 Tech Stack
+### 🎯 Focus Areas
 
 - 🟣 **Kotlin / Kotlin Multiplatform**
 - 🎨 **Jetpack Compose / Compose Multiplatform**
@@ -29,6 +29,16 @@ From full client apps to math rendering, text parsing, and local storage librari
 - 🌊 **Kotlin Coroutines / Flow**
 - 🔬 **Android Reverse Engineering & Smali Hooking**
 - 🌱 **Open-source Software & Library Contributions**
+
+### 🧰 Tech Stack
+
+**Android / Multiplatform**
+
+`Kotlin` · `Java` · `Kotlin Multiplatform` · `Jetpack Compose` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Android SDK` · `Gradle`
+
+**Android Reverse Engineering**
+
+`Smali` · `APK / DEX Analysis`
 
 ---
 

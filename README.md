@@ -21,7 +21,7 @@
 
 从完整的客户端应用，到公式渲染、文本解析和本地存储组件，我希望让这些能力在不同平台上复用。
 
-### 🧰 技术栈
+### 🎯 技术方向
 
 - 🟣 **Kotlin / Kotlin Multiplatform**
 - 🎨 **Jetpack Compose / Compose Multiplatform**
@@ -29,6 +29,16 @@
 - 🌊 **Kotlin Coroutines / Flow**
 - 🔬 **Android 逆向工程，Smali Hook**
 - 🌱 **开源软件与开源库贡献**
+
+### 🧰 技术栈
+
+**Android / Multiplatform**
+
+`Kotlin` · `Java` · `Kotlin Multiplatform` · `Jetpack Compose` · `Compose Multiplatform` · `Coroutines` · `Flow` · `Android SDK` · `Gradle`
+
+**Android 逆向**
+
+`Smali` · `APK / DEX Analysis`
 
 ---
 
