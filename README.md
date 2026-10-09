@@ -2,7 +2,7 @@
 
 # 👋 Hi，我是 Darrious Liu
 
-### Kotlin Multiplatform / Compose Developer
+### Kotlin Multiplatform / Android Developer
 
 **跨平台应用 · 内容阅读 · 开源组件**
 
