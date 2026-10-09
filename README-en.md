@@ -21,6 +21,20 @@ I build cross-platform apps and reusable components with **Kotlin Multiplatform 
 
 From full client apps to math rendering, text parsing, and local storage libraries, I aim to make these capabilities reusable across platforms.
 
+### 🧰 Tech Stack
+
+**Language & Cross-platform UI**
+
+`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
+
+**Networking & App Foundations**
+
+`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
+
+**Build & Release**
+
+`Gradle Kotlin DSL` · `GitHub Actions`
+
 ---
 
 ## 🚀 Featured Projects
@@ -59,22 +73,6 @@ A Kotlin Multiplatform key-value storage library extending [ctripcorp/mmkv-kotli
 Adds JVM Desktop support, including native library integration and distribution for Windows, macOS, and Linux, so KMP apps can use MMKV on desktop.
 
 👉 [Source & Integration Guide](https://github.com/darriousliu/mmkv-kotlin)
-
----
-
-## 🧰 Tech Stack
-
-**Language & Cross-platform UI**
-
-`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
-
-**Networking & App Foundations**
-
-`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
-
-**Build & Release**
-
-`Gradle Kotlin DSL` · `GitHub Actions`
 
 ---
 

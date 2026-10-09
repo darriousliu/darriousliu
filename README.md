@@ -21,6 +21,20 @@
 
 从完整的客户端应用，到公式渲染、文本解析和本地存储组件，我希望让这些能力在不同平台上复用。
 
+### 🧰 技术栈
+
+**语言与跨平台 UI**
+
+`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
+
+**网络与应用基础**
+
+`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
+
+**构建与发布**
+
+`Gradle Kotlin DSL` · `GitHub Actions`
+
 ---
 
 ## 🚀 主要项目
@@ -59,22 +73,6 @@
 新增 JVM Desktop 支持，并提供 Windows、macOS 和 Linux 的原生库集成与分发，让 KMP 应用在桌面端使用 MMKV。
 
 👉 [源码与接入说明](https://github.com/darriousliu/mmkv-kotlin)
-
----
-
-## 🧰 技术栈
-
-**语言与跨平台 UI**
-
-`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
-
-**网络与应用基础**
-
-`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
-
-**构建与发布**
-
-`Gradle Kotlin DSL` · `GitHub Actions`
 
 ---
 
