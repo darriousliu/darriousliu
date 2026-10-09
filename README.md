@@ -23,17 +23,12 @@
 
 ### 🧰 技术栈
 
-**语言与跨平台 UI**
-
-`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
-
-**网络与应用基础**
-
-`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
-
-**构建与发布**
-
-`Gradle Kotlin DSL` · `GitHub Actions`
+- 🟣 **Kotlin / Kotlin Multiplatform**
+- 🎨 **Jetpack Compose / Compose Multiplatform**
+- 📱 **Android 应用架构与性能优化**
+- 🌊 **Kotlin Coroutines / Flow**
+- 🔬 **Android 逆向工程，Smali Hook**
+- 🌱 **开源软件与开源库贡献**
 
 ---
 

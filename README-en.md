@@ -23,17 +23,12 @@ From full client apps to math rendering, text parsing, and local storage librari
 
 ### 🧰 Tech Stack
 
-**Language & Cross-platform UI**
-
-`Kotlin` · `Kotlin Multiplatform` · `Compose Multiplatform`
-
-**Networking & App Foundations**
-
-`Kotlin Coroutines` · `Ktor` · `Koin` · `Coil` · `Room` · `MMKV`
-
-**Build & Release**
-
-`Gradle Kotlin DSL` · `GitHub Actions`
+- 🟣 **Kotlin / Kotlin Multiplatform**
+- 🎨 **Jetpack Compose / Compose Multiplatform**
+- 📱 **Android App Architecture & Performance Optimization**
+- 🌊 **Kotlin Coroutines / Flow**
+- 🔬 **Android Reverse Engineering & Smali Hooking**
+- 🌱 **Open-source Software & Library Contributions**
 
 ---
 
